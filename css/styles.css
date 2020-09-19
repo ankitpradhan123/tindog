@@ -238,6 +238,11 @@ p{
   .testimonials-image{
     width: 3rem;
   }
+  
+  #pricing{
+    padding: 8% 5%;
+    text-align: center;
+  }
 
   .press-images{
     width: 15%;
@@ -250,7 +255,7 @@ p{
   }
 
   .cta-title{
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 
 
