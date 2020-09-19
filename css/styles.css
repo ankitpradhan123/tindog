@@ -207,7 +207,7 @@ p{
 @media(max-width:1010px)
 {
   .container-fluid{
-    padding: 2% 10% 0;
+    padding: 2% 5% 0;
   }
 
    #title{
@@ -240,7 +240,7 @@ p{
   }
 
   .cta-elements{
-    width: 70%;
+    width: 90%;
     margin: auto;
   }
 
